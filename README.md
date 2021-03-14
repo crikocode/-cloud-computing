@@ -1,3 +1,3 @@
 # -cloud-computing
 my second repository.
-this is a description about me,i like this subject. 
+this is a description about myself,i like this subject. 
